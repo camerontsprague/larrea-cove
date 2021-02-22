@@ -10270,13 +10270,13 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 4rem;
   background: #dcb6a1;
   opacity: 0.8;
   /* background: linear-gradient(to bottom, #dcb6a1 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%); */
 }
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
 }
 
 .projects-section {
@@ -10386,6 +10386,11 @@ body {
   opacity: 0.8;
 }
 
-.filter-svg{
+/* Brown svg color
+/* .filter-svg{
   filter: invert(86%) sepia(17%) saturate(262%) hue-rotate(341deg) brightness(106%) contrast(90%);
+} */
+
+.filter-svg{
+  filter: invert(100%) sepia(0%) saturate(7498%) hue-rotate(163deg) brightness(103%) contrast(102%);
 }
